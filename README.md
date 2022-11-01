@@ -23,7 +23,7 @@
 
 ![image](Export/render.jpg)
 
-[Принципиальная схема](Export/Schematics-54M-1_v1.0.0.pdf)
+[Принципиальная схема](Export/Schematic-54M-1_v1.0.0.pdf)
 
 [Монтажная схема](Export/PCB_54M-1_v1.0.0.pdf)
 
